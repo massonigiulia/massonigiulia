@@ -1,4 +1,4 @@
-### Hello ✨
+### ✨ Hello ✨
 - My name is Giulia, i'm 18 years old 🌸
 - I'm Informatic Technical 🎓
 - I’m currently studying Systems Analysis and Development 🖥️
