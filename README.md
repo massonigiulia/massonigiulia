@@ -2,8 +2,8 @@
 - My name is Giulia, i'm 20 years old 🌸
 - I'm Computer Technician (<a href="https://www.etecfernandoprestes.com.br/" target="_blank">Etec Fernando Prestes</a>, 2017-2019) 🎓
 - I’m currently
-  - studying Systems Analysis and Development 📚
-  - working at <a href="https://www.bdsdatasolution.com.br/" target="_blank">BDS DataSolution</a> 🖥️
+  - studying Systems Analysis and Development at <a href="http://www.fatecsorocaba.edu.br/" target="_blank">Fatec-SO</a> 📚
+  - working at <a href="https://www.bdsdatasolution.com.br/" target="_blank">BDS DataSolution</a> (Front-end, Back-end) 🖥️
 - I love games! 🎮
 - I want to be an excellent programmer and technology professional 👾
 
