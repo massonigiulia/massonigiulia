@@ -1,6 +1,6 @@
 ### ✨ Hello ✨
-- My name is Giulia, i'm 19 years old 🌸
-- I'm Informatic Technical 🎓
+- My name is Giulia, i'm 20 years old 🌸
+- I'm Computer Technician 🎓
 - I’m currently studying Systems Analysis and Development 🖥️
 - I love games! 🎮
 - I want to be an excellent programmer and technology professional 👾
